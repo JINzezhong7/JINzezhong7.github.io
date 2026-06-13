@@ -99,7 +99,7 @@ My name is **Zezhong Jin**, and I am currently a Ph.D. student in the Department
 - *August 2021 - May 2023*, **The Hong Kong Polytechnic University**  
   M.S. in Electrical and Electronic Engineering, Electronic Information (Artificial Intelligence).
 
-- **Hebei University**  
+- *September 2017 - June 2021*, **Hebei University**  
   B.Eng. in Electronic Information, Software Engineering Track.
 
 <span class='anchor' id='internships'></span>
