@@ -49,11 +49,11 @@ My name is **Zezhong Jin**, and I am currently a Ph.D. student in the Department
 # 🔥 News
 
 - *2026.07*: Tutorial speaker for **Speech Large Language Models: Architectures, Efficient Adaptation, and Applications** at ICME 2026.
-- *2026.01*: Started a research internship at **Tencent**, working on CR-CTC Conformer acoustic modeling and on-device handwriting recognition.
-- *2025.11*: Completed a research internship at **Microsoft Research Asia**, focusing on LLM-driven speech-to-speech translation.
+- *2026*: Two papers were accepted by **INTERSPEECH 2026**. See you in Australia!
+- *2026*: **Distilling Attention Knowledge for Speaker Verification** was accepted by **ICASSP 2026**.
+- *2025*: **Uncertainty-Aware Multi-Head Multi-Mode Knowledge Distillation for Self-Supervised Speaker Verification** was accepted by **IEEE/ACM TASLP**.
 - *2025*: **TrInk: Ink Generation with Transformer Network** was accepted by **EMNLP 2025**.
 - *2025*: **Denoising Student Features with Diffusion Models for Knowledge Distillation in Speaker Verification** was accepted by **ICASSP 2025**.
-- *2024*: **Self-Supervised Learning with Multi-Head Multi-Mode Knowledge Distillation for Speaker Verification** was accepted by **INTERSPEECH 2024**.
 
 <span class='anchor' id='publications'></span>
 
@@ -74,11 +74,7 @@ My name is **Zezhong Jin**, and I am currently a Ph.D. student in the Department
 
 <li><span class="pub-badge">INTERSPEECH 2024</span><a href="https://scholar.google.com/scholar?q=W-GVKT%3A+Within-Global-View+Knowledge+Transfer+for+Speaker+Verification">W-GVKT: Within-Global-View Knowledge Transfer for Speaker Verification</a>, <strong>Zezhong Jin</strong>, Y. Tu, and M.-W. Mak.</li>
 
-<li><span class="pub-badge">NCMMSC 2023</span><a href="https://scholar.google.com/scholar?q=Voice+Cloning-Based+Data+Augmentation+for+Speaker+Recognition">Voice Cloning-Based Data Augmentation for Speaker Recognition</a>, <strong>Zezhong Jin</strong>.</li>
-
-<li><span class="pub-badge">NCMMSC 2023</span><a href="https://scholar.google.com/scholar?q=Pseudo+Label+Refining+for+Semi-supervised+Automatic+Speech+Recognition">Pseudo Label Refining for Semi-supervised Automatic Speech Recognition</a>, <strong>Zezhong Jin</strong> and R. Zhang.</li>
-
-<li><span class="pub-badge">ICASSP 2025</span><a href="https://scholar.google.com/scholar?q=Distilling+Attention+Knowledge+for+Speaker+Verification">Distilling Attention Knowledge for Speaker Verification</a>, <strong>Zezhong Jin</strong>, S. Liu, Z. Li, K.-A. Lee, and M.-W. Mak.</li>
+<li><span class="pub-badge">ICASSP 2026</span><a href="https://scholar.google.com/scholar?q=Distilling+Attention+Knowledge+for+Speaker+Verification">Distilling Attention Knowledge for Speaker Verification</a>, <strong>Zezhong Jin</strong>, S. Liu, Z. Li, K.-A. Lee, and M.-W. Mak.</li>
 
 <li><span class="pub-badge">INTERSPEECH 2026</span><a href="https://scholar.google.com/scholar?q=Beyond+Residual+Connections%3A+Manifold-Constrained+Hyper-Connections+for+Robust+Speaker+Representation+Learning">Beyond Residual Connections: Manifold-Constrained Hyper-Connections for Robust Speaker Representation Learning</a>, <strong>Zezhong Jin</strong>, X. Wang, Z. Li, M.-W. Mak, and K.-A. Lee.</li>
 
@@ -101,18 +97,17 @@ My name is **Zezhong Jin**, and I am currently a Ph.D. student in the Department
   Ph.D. in Electrical and Electronic Engineering, Electronic Information (Artificial Intelligence).
 
 - *August 2021 - May 2023*, **The Hong Kong Polytechnic University**  
-  Research M.Phil. in Electrical and Electronic Engineering, Electronic Information (Artificial Intelligence). GPA: 3.83/4.00.
+  M.S. in Electrical and Electronic Engineering, Electronic Information (Artificial Intelligence).
 
 - **Hebei University**  
-  B.Eng. in Electronic Information, Software Engineering Track. GPA: 3.76/4.00.
+  B.Eng. in Electronic Information, Software Engineering Track.
 
 <span class='anchor' id='internships'></span>
 
 # 💻 Internships
 
 - Research Intern, **Tencent**, China (*January 2026 - May 2026*).
-- Research Intern, **Microsoft Research Asia**, China (*July 2025 - November 2025*).
-- Research Intern, **Microsoft Research Asia**, China (*November 2024 - July 2025*).
+- Research Intern, **Microsoft Research Asia**, China (*November 2024 - November 2025*). Co-supervised by [Dr. Shujie Liu](https://scholar.google.com/citations?user=6mNya-wAAAAJ&hl=en) and [Dr. Jinyu Li](https://scholar.google.com/citations?user=grUvupMAAAAJ&hl=zh-CN).
 - Research Intern, **Zoom**, China (*April 2022 - August 2022*).
 
 <span class='anchor' id='services'></span>
@@ -148,15 +143,5 @@ Reviewer:
 - *June 2024*, Self-Supervised Learning with Multi-Head Multi-Mode Knowledge Distillation for Speaker Verification, INTERSPEECH 2024 paper preview seminar.
 - *June 2024*, W-GVKT: Within-Global-View Knowledge Transfer for Speaker Verification, INTERSPEECH 2024 paper preview seminar.
 - *March 2025*, Denoising Student Features with Diffusion Models for Knowledge Distillation in Speaker Verification, ICASSP 2025 paper preview seminar.
+- *April 2026*, Distilling Attention Knowledge for Speaker Verification, ICASSP 2026 paper preview seminar.
 - *July 2026*, Speech Large Language Models: Architectures, Efficient Adaptation, and Applications, ICME 2026 Tutorial.
-
-<span class='anchor' id='skills'></span>
-
-# 💻 Skills
-
-- **Programming:** Python, C++, CUDA programming.
-- **Deep Learning:** PyTorch, TensorFlow.
-- **Large Models:** Transformer architecture design, attention optimization, Mixture-of-Experts models, RLHF, TRL.
-- **Model Optimization:** Quantization, knowledge distillation, model pruning, and parallel training.
-
-Thanks for the template of Yi Ren.
