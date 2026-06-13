@@ -8,6 +8,24 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.pub-badge {
+  display: inline-block;
+  background: #1f5fbf;
+  color: #ffffff;
+  font-size: 0.78em;
+  font-weight: 700;
+  line-height: 1.15;
+  padding: 2px 6px;
+  border-radius: 2px;
+  margin-right: 6px;
+  white-space: nowrap;
+}
+.pub-list li {
+  margin-bottom: 7px;
+}
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -41,22 +59,39 @@ My name is **Zezhong Jin**, and I am currently a Ph.D. student in the Department
 
 # 📝 Publications
 
-- **EMNLP 2025** TrInk: Ink Generation with Transformer Network, **Zezhong Jin**, S. Desai, X. Chen, B. Fang, Z. Huang, Z. Li, C.-X. Gan, X. Tu, M.-W. Mak, Y. Lu, and S. Liu.
-- **TASLP 2025** Uncertainty-Aware Multi-Head Multi-Mode Knowledge Distillation for Self-Supervised Speaker Verification, **Zezhong Jin**, Y. Tu, Z. Li, M.-W. Mak, and K.-A. Lee.
-- **ICASSP 2025** Denoising Student Features with Diffusion Models for Knowledge Distillation in Speaker Verification, **Zezhong Jin**, Y. Tu, Z. Li, Z. Huang, C.-X. Gan, and M.-W. Mak.
-- **Neurocomputing 2024** Adversarially Adaptive Temperatures for Decoupled Knowledge Distillation with Applications to Speaker Verification, **Zezhong Jin**, Y. Tu, C.-X. Gan, and M.-W. Mak.
-- **APSIPA ASC 2024** JOSEPH: Phonetic-Aware Speaker Embedding for Far-Field Speaker Verification, **Zezhong Jin**, Y. Tu, and M.-W. Mak.
-- **INTERSPEECH 2024** Self-Supervised Learning with Multi-Head Multi-Mode Knowledge Distillation for Speaker Verification, **Zezhong Jin**, Y. Tu, and M.-W. Mak.
-- **INTERSPEECH 2024** W-GVKT: Within-Global-View Knowledge Transfer for Speaker Verification, **Zezhong Jin**, Y. Tu, and M.-W. Mak.
-- **NCMMSC 2023** Voice Cloning-Based Data Augmentation for Speaker Recognition, **Zezhong Jin**.
-- **NCMMSC 2023** Pseudo Label Refining for Semi-supervised Automatic Speech Recognition, **Zezhong Jin** and R. Zhang.
-- **ICASSP 2025** Distilling Attention Knowledge for Speaker Verification, **Zezhong Jin**, S. Liu, Z. Li, K.-A. Lee, and M.-W. Mak.
-- **INTERSPEECH 2026** Beyond Residual Connections: Manifold-Constrained Hyper-Connections for Robust Speaker Representation Learning, **Zezhong Jin**, X. Wang, Z. Li, M.-W. Mak, and K.-A. Lee.
-- **INTERSPEECH 2025** IDIR: Identifying and Distilling Informative Relations for Speaker Verification, C.-X. Gan, Z. Li, **Zezhong Jin**, Z. Huang, M.-W. Mak, and K.-A. Lee.
-- **INTERSPEECH 2025** Disentangling Speaker and Content in Pre-trained Speech Models with Latent Diffusion for Robust Speaker Verification, Z. Li, M.-W. Mak, J.-T. Chien, M. Pilanci, **Zezhong Jin**, and H. Meng.
-- **TASLP 2025** Disentangling Speech Representations Learning with Latent Diffusion for Speaker Verification, Z. Li, M.-W. Mak, J.-T. Chien, M. Pilanci, **Zezhong Jin**, and H. Meng.
-- **ICASSP 2025** Grouped Knowledge Distillation with Adaptive Logit Softening for Speaker Recognition, C.-X. Gan, Y. Tu, **Zezhong Jin**, M.-W. Mak, and K.-A. Lee.
-- **INTERSPEECH 2026** DualSCL: Emotion Recognition in Conversation through Multimodal Alignment and Emotional Inertia Modeling, Z. Huang, M.-W. Mak, K.-A. Lee, C.-X. Gan, **Zezhong Jin**, and R. Zuo.
+<ul class="pub-list">
+<li><span class="pub-badge">EMNLP 2025</span><a href="https://scholar.google.com/scholar?q=TrInk%3A+Ink+Generation+with+Transformer+Network">TrInk: Ink Generation with Transformer Network</a>, <strong>Zezhong Jin</strong>, S. Desai, X. Chen, B. Fang, Z. Huang, Z. Li, C.-X. Gan, X. Tu, M.-W. Mak, Y. Lu, and S. Liu.</li>
+
+<li><span class="pub-badge">TASLP</span><a href="https://scholar.google.com/scholar?q=Uncertainty-Aware+Multi-Head+Multi-Mode+Knowledge+Distillation+for+Self-Supervised+Speaker+Verification">Uncertainty-Aware Multi-Head Multi-Mode Knowledge Distillation for Self-Supervised Speaker Verification</a>, <strong>Zezhong Jin</strong>, Y. Tu, Z. Li, M.-W. Mak, and K.-A. Lee.</li>
+
+<li><span class="pub-badge">ICASSP 2025</span><a href="https://scholar.google.com/scholar?q=Denoising+Student+Features+with+Diffusion+Models+for+Knowledge+Distillation+in+Speaker+Verification">Denoising Student Features with Diffusion Models for Knowledge Distillation in Speaker Verification</a>, <strong>Zezhong Jin</strong>, Y. Tu, Z. Li, Z. Huang, C.-X. Gan, and M.-W. Mak.</li>
+
+<li><span class="pub-badge">Neurocomputing</span><a href="https://scholar.google.com/scholar?q=Adversarially+Adaptive+Temperatures+for+Decoupled+Knowledge+Distillation+with+Applications+to+Speaker+Verification">Adversarially Adaptive Temperatures for Decoupled Knowledge Distillation with Applications to Speaker Verification</a>, <strong>Zezhong Jin</strong>, Y. Tu, C.-X. Gan, and M.-W. Mak.</li>
+
+<li><span class="pub-badge">APSIPA ASC 2024</span><a href="https://scholar.google.com/scholar?q=JOSEPH%3A+Phonetic-Aware+Speaker+Embedding+for+Far-Field+Speaker+Verification">JOSEPH: Phonetic-Aware Speaker Embedding for Far-Field Speaker Verification</a>, <strong>Zezhong Jin</strong>, Y. Tu, and M.-W. Mak.</li>
+
+<li><span class="pub-badge">INTERSPEECH 2024</span><a href="https://scholar.google.com/scholar?q=Self-Supervised+Learning+with+Multi-Head+Multi-Mode+Knowledge+Distillation+for+Speaker+Verification">Self-Supervised Learning with Multi-Head Multi-Mode Knowledge Distillation for Speaker Verification</a>, <strong>Zezhong Jin</strong>, Y. Tu, and M.-W. Mak.</li>
+
+<li><span class="pub-badge">INTERSPEECH 2024</span><a href="https://scholar.google.com/scholar?q=W-GVKT%3A+Within-Global-View+Knowledge+Transfer+for+Speaker+Verification">W-GVKT: Within-Global-View Knowledge Transfer for Speaker Verification</a>, <strong>Zezhong Jin</strong>, Y. Tu, and M.-W. Mak.</li>
+
+<li><span class="pub-badge">NCMMSC 2023</span><a href="https://scholar.google.com/scholar?q=Voice+Cloning-Based+Data+Augmentation+for+Speaker+Recognition">Voice Cloning-Based Data Augmentation for Speaker Recognition</a>, <strong>Zezhong Jin</strong>.</li>
+
+<li><span class="pub-badge">NCMMSC 2023</span><a href="https://scholar.google.com/scholar?q=Pseudo+Label+Refining+for+Semi-supervised+Automatic+Speech+Recognition">Pseudo Label Refining for Semi-supervised Automatic Speech Recognition</a>, <strong>Zezhong Jin</strong> and R. Zhang.</li>
+
+<li><span class="pub-badge">ICASSP 2025</span><a href="https://scholar.google.com/scholar?q=Distilling+Attention+Knowledge+for+Speaker+Verification">Distilling Attention Knowledge for Speaker Verification</a>, <strong>Zezhong Jin</strong>, S. Liu, Z. Li, K.-A. Lee, and M.-W. Mak.</li>
+
+<li><span class="pub-badge">INTERSPEECH 2026</span><a href="https://scholar.google.com/scholar?q=Beyond+Residual+Connections%3A+Manifold-Constrained+Hyper-Connections+for+Robust+Speaker+Representation+Learning">Beyond Residual Connections: Manifold-Constrained Hyper-Connections for Robust Speaker Representation Learning</a>, <strong>Zezhong Jin</strong>, X. Wang, Z. Li, M.-W. Mak, and K.-A. Lee.</li>
+
+<li><span class="pub-badge">INTERSPEECH 2025</span><a href="https://scholar.google.com/scholar?q=IDIR%3A+Identifying+and+Distilling+Informative+Relations+for+Speaker+Verification">IDIR: Identifying and Distilling Informative Relations for Speaker Verification</a>, C.-X. Gan, Z. Li, <strong>Zezhong Jin</strong>, Z. Huang, M.-W. Mak, and K.-A. Lee.</li>
+
+<li><span class="pub-badge">INTERSPEECH 2025</span><a href="https://scholar.google.com/scholar?q=Disentangling+Speaker+and+Content+in+Pre-trained+Speech+Models+with+Latent+Diffusion+for+Robust+Speaker+Verification">Disentangling Speaker and Content in Pre-trained Speech Models with Latent Diffusion for Robust Speaker Verification</a>, Z. Li, M.-W. Mak, J.-T. Chien, M. Pilanci, <strong>Zezhong Jin</strong>, and H. Meng.</li>
+
+<li><span class="pub-badge">TASLP</span><a href="https://scholar.google.com/scholar?q=Disentangling+Speech+Representations+Learning+with+Latent+Diffusion+for+Speaker+Verification">Disentangling Speech Representations Learning with Latent Diffusion for Speaker Verification</a>, Z. Li, M.-W. Mak, J.-T. Chien, M. Pilanci, <strong>Zezhong Jin</strong>, and H. Meng.</li>
+
+<li><span class="pub-badge">ICASSP 2025</span><a href="https://scholar.google.com/scholar?q=Grouped+Knowledge+Distillation+with+Adaptive+Logit+Softening+for+Speaker+Recognition">Grouped Knowledge Distillation with Adaptive Logit Softening for Speaker Recognition</a>, C.-X. Gan, Y. Tu, <strong>Zezhong Jin</strong>, M.-W. Mak, and K.-A. Lee.</li>
+
+<li><span class="pub-badge">INTERSPEECH 2026</span><a href="https://scholar.google.com/scholar?q=DualSCL%3A+Emotion+Recognition+in+Conversation+through+Multimodal+Alignment+and+Emotional+Inertia+Modeling">DualSCL: Emotion Recognition in Conversation through Multimodal Alignment and Emotional Inertia Modeling</a>, Z. Huang, M.-W. Mak, K.-A. Lee, C.-X. Gan, <strong>Zezhong Jin</strong>, and R. Zuo.</li>
+</ul>
 
 <span class='anchor' id='education'></span>
 
