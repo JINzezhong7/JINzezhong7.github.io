@@ -48,6 +48,7 @@ My name is **Zezhong Jin**, and I am currently a Ph.D. student in the Department
 
 # 🔥 News
 
+- *2026*: Two papers were accepted by **ACM Multimedia Asia 2026**. See you in Hanoi!
 - *2026*: Tutorial speaker for **Speech Large Language Models: Architectures, Efficient Adaptation, and Applications** at ICME 2026.
 - *2026*: Two papers were accepted by **INTERSPEECH 2026**. See you in Australia!
 - *2026*: **Distilling Attention Knowledge for Speaker Verification** was accepted by **ICASSP 2026**.
@@ -105,7 +106,8 @@ My name is **Zezhong Jin**, and I am currently a Ph.D. student in the Department
 <span class='anchor' id='internships'></span>
 
 # 💻 Internships
-- Research Intern, **ByteDance**, China - 'Jindouyun' (筋斗云) Talent Program (*June 2026 - Present*).
+- Research Intern, **Tencent**, China - 'Qingyun' (青云) Talent Program (*October 2026 - Present*).
+- Research Intern, **ByteDance**, China - 'Jindouyun' (筋斗云) Talent Program (*June 2026 - September 2026*).
 - Research Intern, **Tencent**, China (*January 2026 - May 2026*).
 - Research Intern, **Microsoft Research Asia**, China (*November 2024 - November 2025*). Co-supervised by [Dr. Shujie Liu](https://scholar.google.com/citations?user=6mNya-wAAAAJ&hl=en) and [Dr. Jinyu Li](https://scholar.google.com/citations?user=grUvupMAAAAJ&hl=zh-CN).
 - Research Intern, **Zoom**, China (*April 2022 - August 2022*).
